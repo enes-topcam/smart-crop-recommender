@@ -2,6 +2,8 @@
 
 Toprak ve iklim verilerine göre en uygun mahsülün yetiştirilmesini öneren çok sınıflı makine öğrenmesi projesi. 2200 örnekten oluşan Crop Recommendation Dataset üzerinde 5 farklı algoritma eğitilmiş, en iyi model Streamlit arayüzüyle canlıya alınmıştır.
 
+🔗 **Canlı uygulama:** [https://mahsul-oneri-sistemi.streamlit.app/](https://mahsul-oneri-sistemi.streamlit.app/)
+
 ## Özellikler
 
 - 7 girdi değişkeni: N, P, K, sıcaklık, nem, pH, yağış
